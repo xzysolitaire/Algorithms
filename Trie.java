@@ -1,3 +1,5 @@
+
+// Java implementation of Trie
 Class TrieNode {
   private boolean isLeaf;
   private Map<Character, TrieNode>() Trie = new HashMap<Character, TrieNode>():
